@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+
+ultralytics
+opencv-python
+numpy
+Pillow
+
+chromadb
+sentence-transformers
+
+google-genai
+python-dotenv
+
+reportlab
